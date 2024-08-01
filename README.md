@@ -6,6 +6,10 @@ Em seguida, pergunta ao usuário se deseja continuar vendo outras opções do me
 O programa continua executando até que o usuário escolha "não" ou uma opção inválida;
 Finalmente, quando o usuário decide sair do programa, exibe uma mensagem de agradecimento e fecha o scanner para liberar recursos.
 
+#Onde executar o projeto:
+- Intellij;  -Eclipse;
+
+
 Tecnologias usadas:
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
